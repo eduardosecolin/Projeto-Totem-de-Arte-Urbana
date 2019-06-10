@@ -13,7 +13,8 @@ Serão utilizadas tecnologias do tipo Totem que poderão ser instalados em frent
 Desenvolvimento:
 A inclusão de um Raspberry, dois botões, um totem e um smartphone, o Packet Tracer possibilitou o desenvolvimento deste sistema e como será feita sua ligação mesmo sem a aquisição dos dispositivos fisicamente.
 
-Participantes
+Participantes:
+
 ADRIANO SOUZA GUIMARÃES
 
 ALAN RODRIGO ALAMINO
